@@ -56,7 +56,3 @@ As a blank, I want to be able to blank, so that blank.
 - Projects#show
 - Contact
 
-
-## Test text 
-
-This text is a demo of creating an issue on another branch, creating a pull request and merging it back into the master branch.
